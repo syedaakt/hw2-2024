@@ -1,0 +1,96 @@
+body{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Arial, Verdana;
+    background-color: #000000;
+    color: #ffffff;
+    
+}
+h1{
+    display:block;
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+h2{
+    font-size: 30px;
+    color: #0D0D0D;
+
+}
+p{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+img{
+    border: dashed 10px #ffffff;
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    
+}
+div{
+    min-height: 125px;
+    border: solid 3px #ffffff;
+    padding: 20px;
+     
+}
+.introduction{
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+.red{
+    background-color: #ff0000;
+    border-width: 0px 0px 2px 5px; 
+    text-align: right;
+    margin-left: 50px;
+     
+    
+}
+.blue{
+  
+    background-color: #0000ff;
+    border-width: 2px 5px 0px 0px; 
+    text-align: left;
+    margin-right: 50px;
+    color: #c4c4c4;
+       
+}
+
+.blue h2{
+    color: #c4c4c4;
+}
+
+.yellow{
+    background-color: #ffff00;
+    border-width: 0px 0px 2px 5px; 
+    text-align: right;
+    margin-left: 50px;
+    color: #707070;
+    
+}
+
+.green{
+    background-color: #008500;
+    border-width: 2px 5px 0px 0px; 
+    text-align: left;
+    margin-right: 50px;
+
+}
+footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
+    border: solid #ffffff;
+}
+footer p{
+        font-size: 20px;
+        text-align: right;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+
+}
